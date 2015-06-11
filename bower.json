@@ -2,7 +2,7 @@
   "name": "core-dropdown-menu",
   "private": false,
   "dependencies": {
-    "polymer": "polymer": "Polymer/polymer#master",
+    "polymer": "Polymer/polymer#master",
     "iron-a11y-keys": "PolymerElements/iron-a11y-keys#master",
     "iron-collapse": "PolymerElements/iron-collapse#master",
     "core-dropdown": "Polymer/core-dropdown#master",
